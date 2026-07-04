@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/LijoThomas2004/LijoThomas2004/main/Github%20Banner.png)
+![logo](https://raw.githubusercontent.com/LijoThomas2004/LijoThomas2004/main/assets/Github%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Lijo Thomas</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
