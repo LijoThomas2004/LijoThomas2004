@@ -10,8 +10,8 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/lijo-thomas-741350416/" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+<a href="www.linkedin.com/in/lijo-thomas-741350416">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <!-- Replace this with your Instagram profile -->
