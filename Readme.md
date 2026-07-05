@@ -68,10 +68,11 @@
 ---
 
 ### 📊 GitHub Stats
-
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LijoThomas2004" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LijoThomas2004&theme=tokyonight&hide_border=true"/>
 </p>
+
+
 
 ## 📊 GitHub Profile Summary
 
