@@ -80,7 +80,7 @@
 ## 📊 GitHub Profile Summary
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sreee444&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LijoThomas2004&theme=tokyonight"/>
 </p>
 
 <p align="center">
