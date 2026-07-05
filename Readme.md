@@ -76,3 +76,19 @@
 <p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LijoThomas2004" alt="GitHub Streak" />
 </p>
+
+## 📊 GitHub Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sreee444&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?  username=LijoThomas2004&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LijoThomas2004&theme=tokyonight&utcOffset=5.5"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LijoThomas2004&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LijoThomas2004&theme=tokyonight"/>
+</p>
